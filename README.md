@@ -1,4 +1,4 @@
 # devstart-backend
 
-Repositório backend do projeto DevStart.
-Regras de negócio da aplicação: (Documentação)[./docs/business-rules.md]
+- Repositório backend do projeto DevStart.
+- [Regras de negócio da aplicação](./docs/business-rules.md)
