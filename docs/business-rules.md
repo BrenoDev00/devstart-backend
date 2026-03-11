@@ -7,7 +7,7 @@
 - estágio;
 - trainee;
 - vagas júnior;
-- a plataforma também permite que empresas publiquem vagas voltadas para iniciantes.
+- e também permitir que empresas publiquem vagas voltadas para iniciantes.
 
 ## Tipos de usuários
 
